@@ -1,0 +1,33 @@
+@media (max-width: 480px) {
+.intro-title {
+    width: 80%;
+}
+.intro-descr {
+    padding: 0;
+    font-size: 18px;
+}
+.about-me {
+    margin: auto;
+    padding-top: 0;
+}
+.about-descr {
+    margin: auto;
+    padding-top: 0;
+}
+.wrapper {
+    width: 100%;
+}
+.skills {
+    width: 100%;
+    padding: 5px 0;
+}
+.my-img {
+    height: 100px;
+    margin: auto;
+}
+form {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+}
